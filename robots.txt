@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://greenife0051.github.io/greenife-3d/sitemap.xml
